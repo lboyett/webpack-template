@@ -7,7 +7,7 @@ function component() {
   const btn = document.createElement('button');
 
 
-  element.innerHTML = _.join(['Hello', 'baby'], ' ');
+  element.innerHTML = _.join(['Hello', 'bud'], ' ');
   element.classList.add('hello');
 
   btn.innerHTML = 'Click me and check the console!';
